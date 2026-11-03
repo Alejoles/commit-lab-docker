@@ -1,0 +1,8 @@
+.git
+.atl
+docs
+Makefile
+*.md
+Dockerfile
+.env*
+*.exe
