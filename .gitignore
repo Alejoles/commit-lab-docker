@@ -1,0 +1,14 @@
+# Binaries
+/app
+/go-lab
+*.exe
+*.test
+*.out
+
+# Environment and editors
+.env
+.env.*
+.vscode/
+.idea/
+*.swp
+.DS_Store
