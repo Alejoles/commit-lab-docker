@@ -12,3 +12,6 @@
 .idea/
 *.swp
 .DS_Store
+
+# Agent tooling
+.atl/
